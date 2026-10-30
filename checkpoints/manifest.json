@@ -1,0 +1,46 @@
+{
+  "paper": "You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows (WACV 2027)",
+  "drive_folder": "wacv2027_yofo_release",
+  "files": [
+    {
+      "dataset": "mmfi",
+      "split": "cross_scene",
+      "path": "mmfi/cross_scene/gaussian/backbone.pt",
+      "id": "1A3OLhSAjno6omZ9icQ9NK0ccZF8go4oX",
+      "size": 42428433,
+      "sha256": "79b22bc146b8707367e2acb51a78edba8fe43359bd1fbc771d90e96a5e7e04de"
+    },
+    {
+      "dataset": "mmfi",
+      "split": "cross_subject",
+      "path": "mmfi/cross_subject/gaussian/backbone.pt",
+      "id": "1pPHbu1UA9ZBs6EAUB6BLXczDpLTCpnU6",
+      "size": 42428433,
+      "sha256": "080cc18f6d83d1a858bb33b08b7c90914e5d6058a40ee1d364f21f40754cdf8f"
+    },
+    {
+      "dataset": "mmfi",
+      "split": "random",
+      "path": "mmfi/random/gaussian/backbone.pt",
+      "id": "1xlQ1aG5QieMtr8nY-9kiRuSelCQjCRQS",
+      "size": 42428433,
+      "sha256": "5e2ab7c19b7b63363ce69b0d016968a3ed20bf9c02004d170869aaf6aea54cac"
+    },
+    {
+      "dataset": "mmradpose",
+      "split": "default",
+      "path": "mmradpose/default/gaussian/backbone.pt",
+      "id": "1by4WHFK2KD0pmvXLSD9doUo4AN90_TXN",
+      "size": 42461777,
+      "sha256": "df2026111ecf08e3cc506e94fb37b29ee55b5ce7266051cc4b617e0607f4b977"
+    },
+    {
+      "dataset": "mri",
+      "split": "protocol2",
+      "path": "mri/protocol2/gaussian/backbone.pt",
+      "id": "1dACi9ulQq8cTifodaVbjOg73CAcXQ1ve",
+      "size": 42428433,
+      "sha256": "0d6a92e363d6c545b5418b36c7839dbcaee0e2d214929dbdddc8a86eda77c370"
+    }
+  ]
+}

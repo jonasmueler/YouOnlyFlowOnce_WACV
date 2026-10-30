@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows"
+type: software
+authors:
+  - family-names: Mueller
+    given-names: Jonas Leo
+license: PolyForm-Noncommercial-1.0.0
+repository-code: "https://github.com/jonasmueler/YouOnlyFlowOnce_WACV"
+preferred-citation:
+  type: conference-paper
+  title: "You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows"
+  authors:
+    - family-names: Mueller
+      given-names: Jonas Leo
+    - family-names: Hoefler
+      given-names: Sebastian
+    - family-names: Zanca
+      given-names: Dario
+    - family-names: Jami
+      given-names: Naga Venkata Sai Jitin
+    - family-names: Altstidl
+      given-names: Thomas
+    - family-names: Eskofier
+      given-names: Bjoern M.
+  collection-title: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2027

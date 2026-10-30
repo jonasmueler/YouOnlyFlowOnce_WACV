@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# data, features, runs and results are created locally
+features/
+runs/
+results/
+wandb/
+checkpoints/**/*.pt
+benchmark_results*.json
+benchmark_results*.md
